@@ -33,3 +33,7 @@ I’m deeply interested in:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalx0&layout=compact&hide_title=true&hide_border=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalx0&hide_title=true&hide_border=true&theme=radical)
+
+### 👁️ **Profile Views**
+
+![Profile Views](https://komarev.com/ghpvc/?username=ujjwalx0)
