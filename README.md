@@ -1,6 +1,6 @@
 ## 🌟 Ujjwal - Full Stack Developer Extraordinaire 🌟
 
-With over **X years** of hands-on experience in crafting robust and scalable applications, I bring a wealth of expertise to the world of software development. My journey as a Full Stack Developer has been driven by a passion for technology and a dedication to creating seamless user experiences.
+With over **3** of hands-on experience in crafting robust and scalable applications, I bring a wealth of expertise to the world of software development. My journey as a Full Stack Developer has been driven by a passion for technology and a dedication to creating seamless user experiences.
 
 ### 🛠️ **Technical Skills**
 
