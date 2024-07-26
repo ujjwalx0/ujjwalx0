@@ -33,7 +33,7 @@ I’m deeply interested in:
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-93267019b/)
 - [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_uzzwal)
-- [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ujjwalx0)
+- [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ujjwalx10)
 - [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/ujjwalx0)
 
 ---
