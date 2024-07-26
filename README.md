@@ -31,10 +31,10 @@ I’m deeply interested in:
 
 ### 🌐 **Connect with Me**
 
-- **[LinkedIn](https://www.linkedin.com/in/yourprofile)**: Connect with me for professional networking.
-- **[Instagram](https://www.instagram.com/uizzwal)**: Follow for insights and updates.
-- **[LeetCode](https://leetcode.com/ujjwalx1)**: Check out my coding challenges and solutions.
-- **[GitHub](https://github.com/ujjwalx0)**: Explore my projects and contributions.
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-93267019b/)
+- [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_uzzwal)
+- [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ujjwalx1)
+- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/ujjwalx0)
 
 ---
 
@@ -55,20 +55,15 @@ I’m deeply interested in:
 
 ---
 
-### 🎯 **Recent Projects**
-
-- **[Project Name](#)**: A brief description of a notable project or recent work.
-- **[Project Name](#)**: A brief description of another significant project or contribution.
 
 ---
 
 ### 📈 **Languages & Frameworks**
 
-![Languages](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white)
-![Languages](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=spring&logoColor=white)
-![Languages](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)
-![Languages](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react&logoColor=white)
+![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react&logoColor=white)
 
 ---
 
-Feel free to customize any sections to better reflect your achievements and interests. Adding badges for languages and frameworks, along with recent projects, can make your profile stand out and provide a more comprehensive view of your expertise and accomplishments.
