@@ -23,7 +23,6 @@ I’m currently engaged as a Full Stack Developer, where I harness my skills to 
 
 ### 💡 **Interests**
 
-I’m deeply interested in:
 - **Programming & Software Development:** Exploring new frameworks and technologies to enhance my development skills.
 - **Open Source Contributions:** Actively contributing to projects that push the boundaries of what’s possible in software development.
 
@@ -52,8 +51,6 @@ I’m deeply interested in:
 
 - **Top Contributor** in several open-source projects.
 - **Featured Developer** on various tech blogs and forums.
-
----
 
 
 ---
