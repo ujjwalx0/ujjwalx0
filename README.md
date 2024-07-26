@@ -1,4 +1,4 @@
-## 🌟 Ujjwal - Full Stack Developer Extraordinaire 🌟
+## 🌟 Ujjwal - Full Stack Developer 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ujjwalx0) <!-- Profile views badge -->
 
