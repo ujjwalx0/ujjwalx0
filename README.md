@@ -11,7 +11,7 @@ With over **3 years** of hands-on experience in crafting robust and scalable app
 - **Backend Technologies:** Java, Spring Boot, Hibernate
 - **Frontend Technologies:** Angular, AngularJS, ReactJS, HTML, CSS, JSP
 - **Databases:** PostgreSQL, MySQL
-- **Microservices & Messaging:** Kafka, RabbitMQ
+- **Microservices & Messaging:** Kafka
 
 ---
 
