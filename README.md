@@ -34,7 +34,7 @@ I’m currently engaged as a Full Stack Developer, where I harness my skills to 
 - [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_uzzwal)
 - [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ujjwalx10)
 - [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/ujjwalx0)
-- [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=GitHub)](https://github.com/sponsors/ujjwalx0)
+
 
 
 ---
@@ -65,4 +65,10 @@ I’m currently engaged as a Full Stack Developer, where I harness my skills to 
 ![ReactJS](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react&logoColor=white)
 
 ---
+
+
+ ### ❤️ Support My Work
+
+If you like my work and want to support me, you can sponsor me here:  
+👉 [Become a Sponsor](https://github.com/sponsors/ujjwalx0)
 
