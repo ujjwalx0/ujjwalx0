@@ -70,6 +70,7 @@ I’m currently engaged as a Full Stack Developer, where I harness my skills to 
  ### ❤️ Support My Work
 
 If you like my work and want to support me, you can sponsor me here:  
-👉 [Become a Sponsor] [![Sponsor me](https://github.com/ujjwalx0.png?size=40)](https://github.com/sponsors/ujjwalx0)
+👉 [Become a Sponsor][![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=GitHub)](https://github.com/sponsors/ujjwalx0)
+
 
 
