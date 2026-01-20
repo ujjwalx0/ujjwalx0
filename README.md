@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-🚀 Full Stack Developer with **3+ years of experience** in building scalable, high-performance web applications.  
+🚀 Full Stack Developer with **3+ years of experience** building scalable, high-performance web applications.  
 💡 Passionate about clean architecture, microservices & impactful user experiences.  
 🌱 Always learning, always building.
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ujjwalx0&show_icons=true&count_private=true&theme=radical&hide_border=true" />
@@ -53,17 +53,22 @@
 
 ---
 
-## ⚡ Coding Activity
+## 🧊 3D Contribution Graph Options
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujjwalx0&theme=radical" />
+  <img src="https://raw.githubusercontent.com/ujjwalx0/ujjwalx0/main/profile-3d-contrib/profile-night-rainbow.svg" width="80%" />
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ujjwalx0&theme=radical" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ujjwalx0&theme=radical" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ujjwalx0&theme=radical" />
+  <img src="https://raw.githubusercontent.com/ujjwalx0/ujjwalx0/main/profile-3d-contrib/profile-green-animate.svg" width="40%" />
+  <img src="https://raw.githubusercontent.com/ujjwalx0/ujjwalx0/main/profile-3d-contrib/profile-night-green.svg" width="40%" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ujjwalx0/ujjwalx0/main/profile-3d-contrib/profile-season.svg" width="40%" />
+  <img src="https://raw.githubusercontent.com/ujjwalx0/ujjwalx0/main/profile-3d-contrib/profile-south-season.svg" width="40%" />
+</p>
+
 
 ---
 
@@ -81,9 +86,9 @@
 
 ## 🚧 Currently Building
 
-- 🔹 Scalable **Microservices Architecture** using Spring Boot
-- 🔹 High-performance **Angular + React Dashboards**
-- 🔹 Kafka-based **Event-Driven Systems**
+- 🔹 Scalable **Microservices Architecture** using Spring Boot  
+- 🔹 High-performance **Angular + React Dashboards**  
+- 🔹 Kafka-based **Event-Driven Systems**  
 - 🔹 Clean Code & System Design Practices
 
 ---
@@ -115,5 +120,3 @@
 <a href="https://github.com/sponsors/ujjwalx0">
   <img src="https://img.shields.io/badge/Sponsor%20Me-❤️-red?style=for-the-badge&logo=github" />
 </a>
-
----
