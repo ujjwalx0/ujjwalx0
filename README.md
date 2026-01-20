@@ -7,20 +7,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;3%2B+Years+of+Experience;Java+%7C+Spring+Boot+%7C+Angular+%7C+React;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;3%2B+Years+Experience;Java+%7C+Spring+Boot+%7C+Angular+%7C+React;Building+Scalable+Systems" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Summary
 
-🚀 Full Stack Developer with **3+ years of experience** building scalable, high-performance web applications.  
-💡 Passionate about clean architecture, microservices & impactful user experiences.  
-🌱 Always learning, always building.
+🚀 3+ years experience building scalable, high-performance web applications  
+💡 Expert in **Java Spring Boot**, **Microservices**, **Angular + React**  
+🌱 Passionate about clean architecture, system design & impactful user experiences
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills 
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -40,11 +40,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚧 Currently Building
+
+- Scalable **Microservices Architecture** using Spring Boot  
+- High-performance **Angular + React Dashboards**  
+- Kafka-based **Event-Driven Systems**  
+- Clean Code & System Design Practices  
+
+---
+
+## 📊 GitHub Stats & Graphs
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ujjwalx0&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=ujjwalx0&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -59,28 +67,21 @@
   <img src="https://raw.githubusercontent.com/ujjwalx0/ujjwalx0/MAINN/profile-3d-contrib/profile-night-rainbow.svg" width="80%" />
 </p>
 
-
-
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwalx0&theme=radical&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwalx0&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake (Animated)
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
----
-
-## 🚧 Currently Building
-
-- 🔹 Scalable **Microservices Architecture** using Spring Boot  
-- 🔹 High-performance **Angular + React Dashboards**  
-- 🔹 Kafka-based **Event-Driven Systems**  
-- 🔹 Clean Code & System Design Practices
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
@@ -108,6 +109,8 @@
 ☕ Building quality software takes time & passion  
 ⭐ Star repositories if you find them useful  
 
+<p align="center">
 <a href="https://github.com/sponsors/ujjwalx0">
   <img src="https://img.shields.io/badge/Sponsor%20Me-❤️-red?style=for-the-badge&logo=github" />
 </a>
+</p>
