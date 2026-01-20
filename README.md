@@ -66,8 +66,6 @@ I’m currently engaged as a Full Stack Developer, where I harness my skills to 
 
 ---
 
----
-
 ### ❤️ Support My Open-Source Work
 
 Building quality software takes time, passion, and countless cups of coffee ☕  
