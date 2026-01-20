@@ -53,21 +53,12 @@
 
 ---
 
-## 🧊 3D Contribution Graph Options
+## 🧊 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ujjwalx0/ujjwalx0/main/profile-3d-contrib/profile-night-rainbow.svg" width="80%" />
+  <img src="https://raw.githubusercontent.com/ujjwalx0/ujjwalx0/MAINN/profile-3d-contrib/profile-night-rainbow.svg" width="80%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ujjwalx0/ujjwalx0/main/profile-3d-contrib/profile-green-animate.svg" width="40%" />
-  <img src="https://raw.githubusercontent.com/ujjwalx0/ujjwalx0/main/profile-3d-contrib/profile-night-green.svg" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ujjwalx0/ujjwalx0/main/profile-3d-contrib/profile-season.svg" width="40%" />
-  <img src="https://raw.githubusercontent.com/ujjwalx0/ujjwalx0/main/profile-3d-contrib/profile-south-season.svg" width="40%" />
-</p>
 
 
 ---
