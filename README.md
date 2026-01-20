@@ -1,83 +1,119 @@
-## 🌟 Ujjwal - Full Stack Developer 🌟
+<!-- ================== HEADER ================== -->
+<h1 align="center">🚀 Ujjwal | Full Stack Developer</h1>
+<h3 align="center">Java • Spring Boot • Angular • React • Microservices</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ujjwalx0) <!-- Profile views badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ujjwalx0&label=Profile%20Views&color=red&style=flat" />
+</p>
 
-With over **3 years** of hands-on experience in crafting robust and scalable applications, I bring a wealth of expertise to the world of software development. My journey as a Full Stack Developer has been driven by a passion for technology and a dedication to creating seamless user experiences.
-
----
-
-### 🛠️ **Technical Skills**
-
-- **Backend Technologies:** Java, Spring Boot, Hibernate
-- **Frontend Technologies:** Angular, AngularJS, ReactJS, HTML, CSS, JSP
-- **Databases:** PostgreSQL, MySQL
-- **Microservices & Messaging:** Kafka
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;3%2B+Years+of+Experience;Java+%7C+Spring+Boot+%7C+Angular+%7C+React;Building+Scalable+Systems" />
+</p>
 
 ---
 
-### 🚀 **Current Focus**
+## 👨‍💻 About Me
 
-I’m currently engaged as a Full Stack Developer, where I harness my skills to build and maintain dynamic web applications, ensuring they are both functional and visually captivating. My work revolves around delivering high-quality software solutions that meet modern technological demands.
-
----
-
-### 💡 **Interests**
-
-- **Programming & Software Development:** Exploring new frameworks and technologies to enhance my development skills.
-- **Open Source Contributions:** Actively contributing to projects that push the boundaries of what’s possible in software development.
+🚀 Full Stack Developer with **3+ years of experience** in building scalable, high-performance web applications.  
+💡 Passionate about clean architecture, microservices & impactful user experiences.  
+🌱 Always learning, always building.
 
 ---
 
-### 🌐 **Connect with Me**
+## 🛠️ Tech Stack
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-93267019b/)
-- [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_uzzwal)
-- [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ujjwalx10)
-- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/ujjwalx0)
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-
----
-
-### 📊 **GitHub Stats**
-
-![Ujjwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjwalx0&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalx0&layout=compact&hide_title=true&hide_border=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.vercel.app/?user=ujjwalx0&theme=radical&hide_border=true)
-
+### Database & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
 
 ---
 
-### 🏆 **Achievements**
+## 📊 GitHub Analytics
 
-- **Top Contributor** in several open-source projects.
-- **Featured Developer** on various tech blogs and forums.
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ujjwalx0&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=ujjwalx0&theme=radical&hide_border=true" />
+</p>
 
-
----
-
-### 📈 **Languages & Frameworks**
-
-![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)
-![ReactJS](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react&logoColor=white)
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalx0&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-### ❤️ Support My Open-Source Work
+## ⚡ Coding Activity
 
-Building quality software takes time, passion, and countless cups of coffee ☕  
-If my work has helped you or inspired you in any way, your support means a lot and keeps me motivated to do more 🚀  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujjwalx0&theme=radical" />
+</p>
 
-[![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/ujjwalx0)
-
-⭐ *If you like my work, don’t forget to star the repositories you find useful.*
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ujjwalx0&theme=radical" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ujjwalx0&theme=radical" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ujjwalx0&theme=radical" />
+</p>
 
 ---
 
+## 📈 Contribution Graph
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwalx0&theme=radical&hide_border=true" />
 
+---
 
+## 🐍 Contribution Snake (Animated)
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+---
+
+## 🚧 Currently Building
+
+- 🔹 Scalable **Microservices Architecture** using Spring Boot
+- 🔹 High-performance **Angular + React Dashboards**
+- 🔹 Kafka-based **Event-Driven Systems**
+- 🔹 Clean Code & System Design Practices
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ujjwal-93267019b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://www.instagram.com/_uzzwal">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
+</a>
+<a href="https://leetcode.com/ujjwalx10">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
+</a>
+<a href="https://github.com/ujjwalx0">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+---
+
+## ❤️ Support My Work
+
+☕ Building quality software takes time & passion  
+⭐ Star repositories if you find them useful  
+
+<a href="https://github.com/sponsors/ujjwalx0">
+  <img src="https://img.shields.io/badge/Sponsor%20Me-❤️-red?style=for-the-badge&logo=github" />
+</a>
+
+---
