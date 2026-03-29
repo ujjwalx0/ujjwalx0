@@ -39,11 +39,14 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Impact
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ujjwalx0&no-frame=true&margin-w=10" />
-</p>
+- 🚀 Built and scaled backend systems serving **Millions of users**  
+- ⚡ Designed microservices ensuring **high availability & fault tolerance**  
+- 📈 Optimized backend services reducing latency and improving throughput  
+- 🔄 Implemented asynchronous processing using Kafka  
+- 🧠 Applied clean architecture & design patterns in production systems  
+- 💡 Delivered full-stack solutions with modern UI frameworks  
 
 ---
 
