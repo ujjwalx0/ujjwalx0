@@ -1,5 +1,5 @@
 <!-- ================== HEADER ================== -->
-<h1 align="center">🚀 Ujjwal Singh</h1>
+<h1 align="center">Ujjwal </h1>
 <h3 align="center">Full Stack Developer | Java • Spring Boot • Microservices • Angular • React</h3>
 
 <p align="center">
@@ -23,16 +23,16 @@
 
 ## 🛠️ Tech Stack
 
-### Backend
+### 🚀 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 
-### Frontend
+### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-### Database & Messaging
+### 🛢️ Database & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 ![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
@@ -42,25 +42,25 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ujjwalx0&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ujjwalx0&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (100% Working)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ujjwalx0&show_icons=true&count_private=true&theme=default" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=ujjwalx0&theme=default" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ujjwalx0&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=ujjwalx0&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalx0&layout=compact&theme=default" />
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ujjwalx0&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph (Stable)
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwalx0&theme=github-compact" />
@@ -68,7 +68,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Stable CDN)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
@@ -76,7 +76,7 @@
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ujjwal-93267019b/">
@@ -94,5 +94,5 @@
 
 ## ❤️ Support
 
-⭐ Star repos if you find them useful  
+⭐ Star repositories if they help you  
 🚀 Let’s build scalable systems together  
