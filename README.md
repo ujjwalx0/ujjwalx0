@@ -1,58 +1,74 @@
-<!-- ================== HEADER ================== -->
-<h1 align="center">🚀 Ujjwal | Full Stack Developer</h1>
-<h3 align="center">Java • Spring Boot • Angular • React • Microservices</h3>
+<!-- ================== HERO ================== -->
+<h1 align="center">🚀 Ujjwal Singh</h1>
+<h3 align="center">💻 Full Stack Developer | Java • Spring Boot • Microservices • Angular • React</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ujjwalx0&label=Profile%20Views&color=red&style=flat" />
+  🔥 Building Scalable Systems | ⚡ Clean Architecture | 🚀 Performance Driven
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;3%2B+Years+Experience;Java+%7C+Spring+Boot+%7C+Angular+%7C+React;Building+Scalable+Systems" />
+  <img src="https://komarev.com/ghpvc/?username=ujjwalx0&label=Profile%20Views&color=ff0000&style=flat" />
+  <img src="https://img.shields.io/github/followers/ujjwalx0?label=Followers&style=flat&color=blue" />
+</p>
+
+<!-- ================== TYPING ================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;3%2B+Years+Experience;Java+%7C+Spring+Boot+%7C+Microservices;Angular+%7C+React+Expert;System+Design+Enthusiast;Building+Scalable+Applications" />
 </p>
 
 ---
 
-## 👨‍💻 Summary
+## 👨‍💻 About Me
 
-🚀 3+ years experience building scalable, high-performance web applications  
-💡 Expert in **Java Spring Boot**, **Microservices**, **Angular + React**  
-🌱 Passionate about clean architecture, system design & impactful user experiences
+- 🚀 3+ years building **high-performance scalable systems**
+- 🧠 Strong in **System Design + Microservices Architecture**
+- 💡 Focused on **Clean Code, Performance & Scalability**
+- ⚙️ Backend-heavy developer with modern frontend expertise
 
 ---
 
-## 🛠️ Skills 
+## ⚡ Tech Stack
 
-### Backend
+### 🚀 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
 
-### Frontend
+### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-### Database & Messaging
+### 🛢️ Database & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 ![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
 
 ---
 
-## 🚧 Currently Building
+## 🔥 What I’m Building
 
-- Scalable **Microservices Architecture** using Spring Boot  
-- High-performance **Angular + React Dashboards**  
-- Kafka-based **Event-Driven Systems**  
-- Clean Code & System Design Practices  
+- 🏗️ Enterprise-grade **Microservices**
+- ⚡ Event-driven systems using **Kafka**
+- 📊 High-performance dashboards (**Angular + React**)
+- 🧠 Advanced **System Design Concepts**
 
 ---
 
-## 📊 GitHub Stats & Graphs
+## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ujjwalx0&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ujjwalx0&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ujjwalx0&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=ujjwalx0&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -61,15 +77,7 @@
 
 ---
 
-## 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ujjwalx0/ujjwalx0/MAINN/profile-3d-contrib/profile-night-rainbow.svg" width="80%" />
-</p>
-
----
-
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwalx0&theme=radical&hide_border=true" />
@@ -77,10 +85,26 @@
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ujjwalx0/ujjwalx0/main/profile-3d-contrib/profile-night-rainbow.svg" width="85%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
@@ -104,13 +128,13 @@
 
 ---
 
-## ❤️ Support My Work
+## ❤️ Support
 
-☕ Building quality software takes time & passion  
-⭐ Star repositories if you find them useful  
+⭐ Star my repositories if they help you  
+☕ Let’s build something impactful together  
 
 <p align="center">
 <a href="https://github.com/sponsors/ujjwalx0">
-  <img src="https://img.shields.io/badge/Sponsor%20Me-❤️-red?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Sponsor-❤️-red?style=for-the-badge&logo=github" />
 </a>
 </p>
