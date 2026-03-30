@@ -97,5 +97,8 @@
 
 ## ❤️ Support
 
-⭐ Star repositories if they help you  
-🚀 Let’s build scalable systems together  
+<p align="center">
+<a href="https://github.com/sponsors/ujjwalx0">
+  <img src="https://img.shields.io/badge/Sponsor%20Me-❤️-red?style=for-the-badge&logo=github" />
+</a>
+</p>
