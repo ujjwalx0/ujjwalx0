@@ -93,9 +93,7 @@
 </a>
 </p>
 
----
 
-## ❤️ Support
 
 <p align="center">
 <a href="https://github.com/sponsors/ujjwalx0">
