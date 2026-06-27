@@ -118,23 +118,25 @@ I have contributed to enterprise solutions across multiple business domains whil
 
 # ⚙ Backend Technologies
 
-<p>
+<p align="center">
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring"/>
+<img src="https://img.shields.io/badge/Spring_Security-2C8C3C?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
+<img src="https://img.shields.io/badge/Spring_Cloud-0EA5E9?style=for-the-badge&logo=spring&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hibernate-8D6748?style=for-the-badge&logo=hibernate&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JPA-4B5563?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-0F766E?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
 </p>
 
