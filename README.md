@@ -1,7 +1,3 @@
-```md
-<!-- ========================================================= -->
-<!--                  UJJWAL GITHUB PROFILE README              -->
-<!-- ========================================================= -->
 
 <h1 align="center">Hi 👋, I'm Ujjwal</h1>
 
@@ -259,4 +255,4 @@ I enjoy solving backend problems involving scalability, distributed systems, per
 If you like my work, consider giving a ⭐ to my repositories.
 
 </p>
-```
+
