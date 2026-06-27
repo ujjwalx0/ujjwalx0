@@ -1,6 +1,28 @@
+```md
 <!-- ================== HEADER ================== -->
-<h1 align="center">Ujjwal </h1>
-<h3 align="center">Full Stack Developer | Java • Spring Boot • Microservices • Angular • React</h3>
+<h1 align="center">Ujjwal</h1>
+<h3 align="center">Senior Java Backend Developer | Spring Boot • Microservices • Angular • React</h3>
+
+<p align="center">
+  📧 <a href="mailto:ujjwals346@gmail.com">ujjwals346@gmail.com</a> •
+  📱 +91 7544940324 •
+  📍 Delhi, India
+</p>
+
+<p align="center">
+  <a href="https://github.com/ujjwalx0">
+    <img src="https://img.shields.io/badge/GitHub-ujjwalx0-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/ujjwal-k-93267019b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ujjwal-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/ujjwalx10">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://ujjwalx0.github.io/ujjwalx0-personal-site/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=google-chrome" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ujjwalx0&label=Profile%20Views&color=red&style=flat" />
@@ -8,16 +30,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;3%2B+Years+Experience;Java+%7C+Spring+Boot+%7C+Microservices;Angular+%7C+React;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Java+Backend+Developer;Spring+Boot+%7C+Microservices;Angular+%7C+React;Building+Scalable+Distributed+Systems;Open+to+Exciting+Opportunities" />
 </p>
+```
 
----
-
-## 👨‍💻 About Me
-
-- 🚀 4+ years building scalable backend systems  
-- ⚙️ Strong in Java, Spring Boot & Microservices  
-- 🎯 Focused on performance, clean architecture & real-world systems  
 
 ---
 
