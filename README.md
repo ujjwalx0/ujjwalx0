@@ -515,15 +515,7 @@ My work primarily focuses on building scalable backend systems, secure APIs, dis
 
 ---
 
-# 🏆 GitHub Achievements
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ujjwalx0&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
-
-> **Note:** GitHub Trophies only show if your profile has enough public activity. If they don't appear immediately, it's usually due to the service cache or available public GitHub data.
 
 ---
 
