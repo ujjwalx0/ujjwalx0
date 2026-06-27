@@ -43,9 +43,7 @@ Building Scalable Backend Systems • REST APIs • Distributed Systems • Full
 
 <img src="https://komarev.com/ghpvc/?username=ujjwalx0&label=Profile%20Views&color=red&style=flat"/>
 
-<img src="https://img.shields.io/github/followers/ujjwalx0?label=Followers&style=flat"/>
 
-<img src="https://img.shields.io/github/stars/ujjwalx0?affiliations=OWNER&style=flat"/>
 
 </p>
 
@@ -80,19 +78,14 @@ I enjoy solving backend problems involving scalability, distributed systems, per
 
 ## Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
-
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity)
-
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
-
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-
-![Microservices](https://img.shields.io/badge/Microservices-blue?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
 
