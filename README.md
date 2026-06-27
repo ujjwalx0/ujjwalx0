@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ujjwal</h1>
+<h1 align="center">Hi!!, I'm Ujjwal</h1>
 
 <h3 align="center">
 Senior Java Backend Developer | Spring Boot • Microservices • Angular • React
@@ -15,7 +15,7 @@ Building Scalable Backend Systems • REST APIs • Distributed Systems • Full
 
 📧 <a href="mailto:ujjwals346@gmail.com">ujjwals346@gmail.com</a> •
 📱 +91 7544940324 •
-📍 Delhi, India
+
 
 </p>
 
@@ -59,7 +59,7 @@ Building Scalable Backend Systems • REST APIs • Distributed Systems • Full
 
 # 👨‍💻 About Me
 
-🚀 Passionate Software Engineer with **3+ years of professional experience** building enterprise applications.
+🚀 Passionate Software Engineer with **4+ years of professional experience** building enterprise applications.
 
 I enjoy solving backend problems involving scalability, distributed systems, performance optimization and clean architecture.
 
