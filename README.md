@@ -1,3 +1,6 @@
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ujjwal&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
+</p>
 
 <h1 align="center">Hi!!, I'm Ujjwal</h1>
 
