@@ -74,9 +74,15 @@ I enjoy solving backend problems involving scalability, distributed systems, per
 
 ---
 
-# 🚀 Tech Stack
+<p align="center">
 
-## Backend
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,angular,postgres,mysql,redis,kafka,docker,git,github,maven,postman,linux,vscode&perline=8" />
+
+</p>
+
+---
+
+### 🚀 Backend
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -89,40 +95,33 @@ I enjoy solving backend problems involving scalability, distributed systems, per
 
 ---
 
-## Frontend
+### 🎨 Frontend
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
----
-
-## Database & Messaging
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-
-![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka)
-
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## DevOps & Tools
+### 🗄️ Database & Messaging
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+---
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+### ⚙️ DevOps & Tools
 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
 # 🏆 Achievements & Impact
