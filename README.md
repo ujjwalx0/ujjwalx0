@@ -14,7 +14,7 @@
 
 ## About
 
-Backend engineer working mostly in Java and Spring Boot. Most of my time goes into building APIs and services that have to survive real production conditions — payment retries, GST filing windows, traffic spikes on connected-vehicle platforms  not just pass a demo. I care about systems that stay easy to reason about and debug once they're live, not just easy to ship.
+Backend engineer working mostly in Java and Spring Boot. Most of my time goes into building APIs and services that have to survive real production conditions payment retries, GST filing windows, traffic spikes on connected-vehicle platforms  not just pass a demo. I care about systems that stay easy to reason about and debug once they're live, not just easy to ship.
 
 ## Engineering Focus
 
