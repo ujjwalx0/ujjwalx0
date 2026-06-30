@@ -14,16 +14,16 @@
 
 ## About
 
-I build enterprise-grade backend systems in Java and Spring Boot — designing scalable REST APIs, microservices, and distributed architectures that hold up under real business load. My focus is clean, maintainable code, performance-optimized services, and cloud-ready systems built for long-term reliability rather than short-term delivery.
+Backend engineer working mostly in Java and Spring Boot. Most of my time goes into building APIs and services that have to survive real production conditions — payment retries, GST filing windows, traffic spikes on connected-vehicle platforms  not just pass a demo. I care about systems that stay easy to reason about and debug once they're live, not just easy to ship.
 
 ## Engineering Focus
 
-- Microservices architecture and distributed systems design
-- REST API design, performance optimization, and scalability
-- Event-driven systems with Apache Kafka
-- Authentication, authorization, and application security
-- Clean Architecture and SOLID design principles
-- Database design and query/performance optimization
+- Designing microservices and distributed systems that fail predictably
+- REST API design with a focus on latency, throughput, and contract stability
+- System design, service boundaries, data ownership, scaling strategy
+- Event-driven workflows with Apache Kafka
+- Authentication, authorization, and securing service-to-service communication
+- Query optimization and database performance tuning
 
 ## Domains
 
@@ -98,7 +98,7 @@ Built order, inventory, and subscription management services with payment integr
 
 ## Currently Exploring
 
-`Kubernetes` · `AWS` · `System Design` · `Event-Driven Architecture` · `High-Performance Java`
+`Kubernetes in Production` · `Observability & Distributed Tracing` · `gRPC` · `JVM Performance Tuning`
 
 ## GitHub Analytics
 
