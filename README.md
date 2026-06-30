@@ -5,11 +5,6 @@
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=ujjwalx0&label=Visitors&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/ujjwalx0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/ujjwalx0?style=for-the-badge"/>
-
 </p>
 <h2 align="center">Senior Java Backend Engineer</h2>
 <p align="center">Microservices · Distributed Systems · Enterprise Applications</p>
