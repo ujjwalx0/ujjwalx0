@@ -2,7 +2,15 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:1e3a8a&text=Ujjwal&fontSize=52&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
 </p>
+<p align="center">
 
+<img src="https://komarev.com/ghpvc/?username=ujjwalx0&label=Visitors&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/ujjwalx0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/ujjwalx0?style=for-the-badge"/>
+
+</p>
 <h2 align="center">Senior Java Backend Engineer</h2>
 <p align="center">Microservices · Distributed Systems · Enterprise Applications</p>
 
